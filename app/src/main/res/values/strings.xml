@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Mobilodev</string>
+    <string name="name_text">Ad</string>
+    <string name="surname_text">Soyad</string>
+    <string name="identity_text">TC No</string>
+    <string name="birthlocation_text">Dogum Yeri</string>
+    <string name="email_text">E-mail</string>
+    <string name="phone_text">Tel. No</string>
+    <string name="birthdate_text">Dogum Tarihi</string>
+    <string-array name="days">
+        <item>01</item>
+        <item>02</item>
+        <item>03</item>
+    </string-array>
+    <string-array name="months">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>March</item>
+    </string-array>
+    <string-array name="years">
+        <item>1990</item>
+        <item>1991</item>
+        <item>1992</item>
+    </string-array>
+</resources>
